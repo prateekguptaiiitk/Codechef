@@ -22,12 +22,12 @@ For each test case, print a single line containing the string "Real Fancy" or "r
 Subtask #1 (100 points): original constraints
 
 ## Example Input
-2
-i do not have any fancy quotes
-when nothing goes right go left
-Example Output
-Real Fancy
-regularly fancy
+2 <br />
+i do not have any fancy quotes <br />
+when nothing goes right go left<br />
+## Example Output
+Real Fancy <br />
+regularly fancy <br />
 
 ## Explanation
 Example case 1: "i do not have any fancy quotes" <br />
