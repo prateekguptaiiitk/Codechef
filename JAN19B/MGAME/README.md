@@ -1,0 +1,35 @@
+# Chef and Modulo Game
+
+Chef is playing a game with two of his friends. In this game, each player chooses an integer between 1 and P inclusive. Let's denote the integers chosen by Chef, friend 1 and friend 2 by i, j and k respectively; then, Chef's score is<br />
+<pre>                                  
+                                  (((N mod i)mod j)mod k)mod N.<br />
+</pre>                                  
+Chef wants to obtain the maximum possible score. Let's denote this maximum score by M. Find the number of ways to choose the triple (i,j,k) so that Chef's score is equal to M.<br />
+
+## Input
+The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.<br />
+The first and only line of each test case contains two space-separated integers N and P.<br />
+
+## Output
+For each test case, print a single line containing one integer — the number of ways to obtain the maximum score.<br />
+
+## Constraints
+1≤T≤10^6<br />
+1≤N≤P≤10^6<br />
+
+## Subtasks
+<b>Subtask #1 (10 points):</b> <br />
+
+1≤T≤100<br />
+1≤N≤P≤100<br />
+<b>Subtask #2 (90 points):</b> original constraints<br />
+
+## Example Input
+2<br />
+4 4<br />
+3 4<br />
+## Example Output
+9<br />
+13<br />
+## Explanation
+<b>Example case 1:</b> Chef's maximum possible score is M=1. All possible values of (i,j,k) such that the score is 1 are (3,2,2), (3,2,3), (3,2,4), (3,3,2), (3,3,3), (3,3,4), (3,4,2), (3,4,3), (3,4,4).<br />
