@@ -21,10 +21,14 @@ For each contestant, print a single line containing the string "Good boi" if thi
 <b>Subtask #1 (100 points):</b> original constraints<br />
 
 ## Example Input
+<pre>
 2 1500<br />
 1499<br />
 1501<br />
+</pre>
 
 ## Example Output
+<pre>
 Bad boi<br />
 Good boi<br />
+</pre>
