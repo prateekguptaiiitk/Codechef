@@ -1,4 +1,4 @@
-# FANCY QUOTES
+# [FANCY QUOTES](https://www.codechef.com/JAN19B/problems/FANCY)
 
 "I don't have any fancy quotes." - vijju123 <br />
 Chef was reading some quotes by great people. Now, he is interested in classifying all the fancy quotes he knows. He thinks that all fancy quotes which contain the word "not" are Real Fancy; quotes that do not contain it are regularly fancy.
@@ -33,3 +33,5 @@ regularly fancy <br />
 Example case 1: "i do not have any fancy quotes" <br />
 
 Example case 2: The word "not" does not appear in the given quote.
+
+<b>[Link to Editorial](https://discuss.codechef.com/problems/FANCY)</b>
