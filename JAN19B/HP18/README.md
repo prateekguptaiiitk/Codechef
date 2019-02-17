@@ -1,4 +1,4 @@
-# Lucky Number Game
+# [Lucky Number Game](https://www.codechef.com/JAN19B/problems/HP18)
 
 Bob and Alice are playing a game with the following rules:
 
@@ -26,14 +26,20 @@ For each test case, print a single line containing the string "ALICE" if the win
 <b>Subtask #2 (82 points):</b> original constraints
 
 ## Example Input
-2<br />
-5 3 2<br />
-1 2 3 4 5<br />
-5 2 4<br />
-1 2 3 4 5<br />
+<pre>
+2
+5 3 2
+1 2 3 4 5
+5 2 4
+1 2 3 4 5
+</pre>
 ## Example Output
-ALICE<br />
-BOB<br />
+<pre>
+ALICE
+BOB
+</pre>
 
 ## Explanation
 <b>Example case 1:</b> Bob removes 3 and the sequence becomes [1,2,4,5]. Then, Alice removes 2 and the sequence becomes [1,4,5]. Now, Bob is left with no moves, so Alice is the winner.
+
+[Link to Editorial](https://discuss.codechef.com/problems/HP18)
