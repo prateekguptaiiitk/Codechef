@@ -1,4 +1,4 @@
-# Distinct Pairs
+# [Distinct Pairs](https://www.codechef.com/JAN19B/problems/DPAIRS)
 
 Chef has two integer sequences A1,A2,…,AN and B1,B2,…,BM. You should choose N+M−1 pairs, each in the form (Ax,By), such that the sums Ax+By are all pairwise distinct.<br />
 
@@ -22,14 +22,18 @@ Subtask #1 (25 points): 1≤N,M≤103<br />
 Subtask #2 (75 points): original constraints<br />
 
 ## Example Input
-3 2<br />
-10 1 100<br />
-4 3<br />
+<pre>
+3 2
+10 1 100
+4 3
+</pre>
 ## Example Output
-2 1<br />
-0 0<br />
-1 0<br />
-0 1<br />
+<pre>
+2 1
+0 0
+1 0
+0 1
+</pre>
 ## Explanation
 The chosen pairs and their sums are:<br />
 
@@ -38,3 +42,5 @@ A1+B1=10+4=14<br />
 A2+B1=1+4=5<br />
 A1+B2=10+3=13<br />
 Since all sums are distinct, this is a correct output.<br />
+
+[Link to Editorial](https://discuss.codechef.com/problems/DPAIRS)
