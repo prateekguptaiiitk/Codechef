@@ -1,4 +1,4 @@
-# Chef and Modulo Game
+# [Chef and Modulo Game](https://www.codechef.com/JAN19B/problems/MGAME)
 
 Chef is playing a game with two of his friends. In this game, each player chooses an integer between 1 and P inclusive. Let's denote the integers chosen by Chef, friend 1 and friend 2 by i, j and k respectively; then, Chef's score is<br />
 <pre>                                  
@@ -25,11 +25,17 @@ For each test case, print a single line containing one integer — the number of
 <b>Subtask #2 (90 points):</b> original constraints<br />
 
 ## Example Input
-2<br />
-4 4<br />
-3 4<br />
+<pre>
+2
+4 4
+3 4
+</pre>
 ## Example Output
-9<br />
-13<br />
+<pre>
+9
+13
+</pre>
 ## Explanation
 <b>Example case 1:</b> Chef's maximum possible score is M=1. All possible values of (i,j,k) such that the score is 1 are (3,2,2), (3,2,3), (3,2,4), (3,3,2), (3,3,3), (3,3,4), (3,4,2), (3,4,3), (3,4,4).<br />
+
+[Link to Editorial](https://discuss.codechef.com/problems/MGAME)
