@@ -1,4 +1,4 @@
-# Chef and Interactive Contests
+# [Chef and Interactive Contests](https://www.codechef.com/DEC18B/problems/CHFINTRO)
 
 "Every beginning has an end… and an editorial." - taran_1407<br />
 
@@ -22,13 +22,14 @@ For each contestant, print a single line containing the string "Good boi" if thi
 
 ## Example Input
 <pre>
-2 1500<br />
-1499<br />
-1501<br />
+2 1500
+1499
+1501
 </pre>
 
 ## Example Output
 <pre>
-Bad boi<br />
-Good boi<br />
+Bad boi
+Good boi
 </pre>
+[Link to Editorial](https://discuss.codechef.com/problems/CHFINTRO)
