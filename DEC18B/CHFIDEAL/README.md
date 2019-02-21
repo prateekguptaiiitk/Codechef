@@ -1,4 +1,4 @@
-# Chef and the Ideal Problem
+# [Chef and the Ideal Problem](https://www.codechef.com/DEC18B/problems/CHFIDEAL)
 
 "An ideal problem has no test data." - aryanc403<br />
 
@@ -30,3 +30,5 @@ You                     Grader
                         1
 2
 </pre>
+
+[Link to Editorial](https://discuss.codechef.com/problems/CHFIDEAL)
