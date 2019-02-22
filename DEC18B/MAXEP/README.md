@@ -1,4 +1,4 @@
-# Max and Electric Panel 
+# [Max and Electric Panel](https://www.codechef.com/DEC18B/problems/MAXEP) 
 
 This is an interactive problem.<br />
 
@@ -43,3 +43,4 @@ You             Grader
 2
 3 4
 </pre>
+[Link to Editorial](https://discuss.codechef.com/problems/MAXEP)
