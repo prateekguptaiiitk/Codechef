@@ -1,4 +1,4 @@
-# Chef and Interactive XOR
+# [Chef and Interactive XOR](https://www.codechef.com/DEC18B/problems/INTXOR)
 
 This is an interactive problem.<br />
 
@@ -46,3 +46,5 @@ You                 Grader
 
 ## Explanation
 We use N=4 here for clarity; N≥8 in real test data. Note that this example would be invalid for subtasks 2 and 3.<br />
+
+[Link to Editorial](https://discuss.codechef.com/problems/INTXOR)
