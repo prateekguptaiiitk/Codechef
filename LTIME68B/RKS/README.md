@@ -1,4 +1,4 @@
-# [Rooks](https://www.codechef.com/problems/WTCH)
+# [Rooks](https://www.codechef.com/problems/RKS)
 
 Arya has a chessboard with N rows (numbered 1 through N) and N columns (numbered 1 through N); a square in row r and column c is denoted by (r,c).</br>
 
@@ -51,4 +51,4 @@ N≤1,000</br>
 4 1 1 2 2 3 3 4 4
 </pre>
 
-[Link to Editorial](https://discuss.codechef.com/problems/WTCH)
+[Link to Editorial](https://discuss.codechef.com/problems/RKS)
