@@ -20,7 +20,7 @@ For each test case, print a single line containing one integer — the value of 
 1≤Ai≤105 for each valid i</br>
 
 ## Subtasks
-<s>Subtask #1 (100 points):</s> original constraints</br>
+**Subtask #1 (100 points):** original constraints</br>
 
 ## Example Input
 <pre>
