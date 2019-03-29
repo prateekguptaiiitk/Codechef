@@ -43,11 +43,11 @@ thequickbrownfoxjumpsoverthelazydog
 </pre>
 
 ## Explanation
-**First test**
+**First test**</br>
 There are three letters missing from the original string: n (price 14), x (price 24), and y (price 25).</br>
 Therefore the answer is 14 + 24 + 25 = 63.</br>
 
-**Second test**
+**Second test**</br>
 No letter is missing so there is no point in buying something. The answer is 0.</br>
 
 [Link to Editorial](https://discuss.codechef.com/problems/MATPAN)
