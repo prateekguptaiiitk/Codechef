@@ -1,0 +1,46 @@
+# [Collisions](https://www.codechef.com/LTIME37/problems/LCOLLIS)
+
+Once N boys and M girls attended a party. You are given a matrix A of N rows and M columns where Aij is 1 if the i-th boy likes the j-th girl, otherwise it will be 0. Note that it is not necessary that if a boy x likes girl y, then girl y should like boy x.</br>
+
+You know that if there are two different boys x and y, who both like girl z, then there will be a collision. Can you calculate the number of different collisions at this party? Note that order of boys in the collision doesn't matter.</br>
+
+## Input
+The first line contains a single integer T denoting the number of test cases. Then T test cases follow.</br>
+
+The first line of each test case contains two space separated integers N, M denoting the number of boys and girls, respectively.</br>
+
+Each of the following N lines contain M characters, each of them is either '0' or '1'.</br>
+
+## Output
+For each test case output a single line containing an integer corresponding to the number of collisions at the party.</br>
+
+## Constraints
+1 ≤ T ≤ 100</br>
+1 ≤ N, M ≤ 10</br>
+
+## Example
+## Input:
+<pre>
+2
+4 3
+111
+100
+110
+000
+2 2
+10
+01
+</pre>
+
+## Output:
+<pre>
+4
+0
+</pre>
+
+## Explanation
+**Example Case 1.** All three boys like the first girl, so there are (1, 2, 1), (1, 3, 1), (2, 3, 1) collisions with her. Boys 1 and 3 both like the second girl so this is one more collision. Only one boy likes the third girl, so there are no collisions with her and thus we have 4 collisions total.</br>
+
+**Example Case 2.** For each girl there is only one boy who likes her, so there are no collisions at all.</br>
+
+[Link to Editorial](http://discuss.codechef.com/problems/LCOLLIS)
