@@ -2,7 +2,9 @@
 Collection of problems solved on CodeChef platform.
 
 <pre>
-.
+
+## Long Contests - 
+
 ├── DEC18B
 │   ├── CHFIDEAL
 │   │   ├── README.md
@@ -29,7 +31,9 @@ Collection of problems solved on CodeChef platform.
 │   └── MGAME
 │       ├── README.md
 │       └── mgame.cpp
-├── LICENSE
+
+## LunchTime Contests -
+
 ├── LTIME17
 │   └── HEADBOB
 │       └── headbob.c
