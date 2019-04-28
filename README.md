@@ -1,9 +1,8 @@
 # Codechef
 Collection of problems solved on CodeChef platform.
 
-<pre>
-
 ## Long Contests - 
+<pre>
 
 ├── DEC18B
 │   ├── CHFIDEAL
@@ -32,7 +31,9 @@ Collection of problems solved on CodeChef platform.
 │       ├── README.md
 │       └── mgame.cpp
 
+</pre>
 ## LunchTime Contests -
+<pre>
 
 ├── LTIME17
 │   └── HEADBOB
