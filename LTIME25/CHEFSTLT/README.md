@@ -1,4 +1,4 @@
-# Chef and Two Strings
+# [Chef and Two Strings](https://www.codechef.com/LTIME25/problems/CHEFSTLT)
 
 Chef has found two very old sheets of paper, each of which originally contained a string of lowercase Latin letters. The strings on both the sheets have equal lengths. However, since the sheets are very old, some letters have become unreadable.<br/>
 
@@ -22,11 +22,13 @@ For each test case, output the minimal and the maximal difference between two gi
 1 ≤ T ≤ 100<br/>
 1 ≤ |S1|, |S2| ≤ 100<br/>
 
-**Subtask 1 (25 points):** |S1| = 1
-Subtask 2 (10 points): neither S1 nor S2 contains unreadable symbols
-Subtask 3 (65 points): 1 ≤ |S1|, |S2| ≤ 100
-Example
-Input:
+**Subtask 1 (25 points):** |S1| = 1 <br/>
+**Subtask 2 (10 points):** neither S1 nor S2 contains unreadable symbols<br/>
+**Subtask 3 (65 points):** 1 ≤ |S1|, |S2| ≤ 100<br/>
+
+## Example
+## Input:
+<pre>
 3
 a?c
 ??b
@@ -34,14 +36,20 @@ a?c
 ???a
 ?abac
 aba?w
+</pre>
 
-Output:
+## Output:
+<pre>
 1 3
 0 3
 3 5
-Explanation
-Example case 1. You can change the question marks in the strings so that you obtain S1 = abc and S2 = abb. Then S1 and S2 will differ in one position. On the other hand, you can change the letters so that S1 = abc and S2 = bab. Then, the strings will differ in all three positions.
+</pre>
 
-Example case 2. Change the question marks this way: S1 = dcba, S2 = dcba, then the strings will differ in 0 positions. You can also change the question marks so that S1 = aaaa, S2 = dcba, then the strings will differ in 3 positions.
+## Explanation
+**Example case 1.** You can change the question marks in the strings so that you obtain S1 = abc and S2 = abb. Then S1 and S2 will differ in one position. On the other hand, you can change the letters so that S1 = abc and S2 = bab. Then, the strings will differ in all three positions.<br/>
 
-Example case 3. Change the question marks this way: S1 = aabac, S2 = abaaw, then the strings will differ in 3 positions. Then, change the question marks this way: S1 = xabac, S2 = abayw, then they will differ in 5 positions.
+**Example case 2.** Change the question marks this way: S1 = dcba, S2 = dcba, then the strings will differ in 0 positions. You can also change the question marks so that S1 = aaaa, S2 = dcba, then the strings will differ in 3 positions.<br/>
+
+**Example case 3.** Change the question marks this way: S1 = aabac, S2 = abaaw, then the strings will differ in 3 positions. Then, change the question marks this way: S1 = xabac, S2 = abayw, then they will differ in 5 positions.<br/>
+
+[Link to Editorial](http://discuss.codechef.com/problems/CHEFSTLT)
