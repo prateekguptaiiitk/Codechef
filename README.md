@@ -37,24 +37,31 @@ Collection of problems solved on CodeChef platform.
 
 ├── LTIME17
 │   └── HEADBOB
+│       ├── README.md
 │       └── headbob.c
 ├── LTIME20
 │   └── LCH15JAB
+│       ├── README.md
 │       └── lch15jab.cpp
 ├── LTIME21
 │   └── LUCKFOUR
+│       ├── README.md
 │       └── luckfour.cpp
 ├── LTIME23
 │   └── TICKETS5
+│       ├── README.md
 │       └── tickets5.cpp
 ├── LTIME25
 │   └── CHEFSTLT
+│       ├── README.md
 │       └── chefstlt.cpp
 ├── LTIME26
 │   └── GDOG
+│       ├── README.md
 │       └── gdog.cpp
 ├── LTIME27
 │   └── MNMX
+│       ├── README.md
 │       └── mnmx.cpp
 ├── LTIME28
 │   └── SPALNUM
@@ -245,11 +252,11 @@ Collection of problems solved on CodeChef platform.
 │       ├── README.md
 │       └── wtch.cpp
 ├── LTIME69B
-    ├── AVG
-    │   ├── README.md
-    │   └── avg.cpp
-    └── TRICKYDL
-        ├── README.md
-        └── trickydl.cpp
+│   ├── AVG
+│   │   ├── README.md
+│   │   └── avg.cpp
+│   └── TRICKYDL
+│       ├── README.md
+│       └── trickydl.cpp
  
  </pre>
