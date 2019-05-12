@@ -1,5 +1,5 @@
 # Codechef
-Collection of problems solved on CodeChef platform.
+Collection of problems solved on [CodeChef](http://codechef.com) platform.
 
 ## Long Contests - 
 <pre>
