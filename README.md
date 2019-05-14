@@ -1,4 +1,4 @@
-# Codechef
+# [Codechef](http://codechef.com)
 Collection of problems solved on [CodeChef](http://codechef.com) platform.
 
 ## Long Contests - 
