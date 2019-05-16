@@ -260,3 +260,5 @@ Collection of problems solved on [CodeChef](http://codechef.com) platform.
 │       └── trickydl.cpp
  
  </pre>
+
+If you find any bugs in codes or anywhere, kindly mail me at <pre>prateekjpg@gmail.com</pre>
