@@ -262,3 +262,5 @@ Collection of problems solved on [CodeChef](http://codechef.com) platform.
  </pre>
 
 If you find any bugs in codes or anywhere, kindly mail me at <pre>prateekjpg@gmail.com</pre>
+
+My Codechef ID - [prateek_codec](https://www.codechef.com/users/prateek_codec)
